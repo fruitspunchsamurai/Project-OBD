@@ -1,4 +1,5 @@
-NTU EE3080 DIP E006 Smart Phone Based Heads Up Display
+NTU EE3080 DIP E006 Smart Phone Based HUD
 =======================
 
-Work in progress...
+NTUGUI.py    => Main GUI interface. Execute from here.
+NTUobtest.py => Script that runs as a subprocess from NTUGUI.py. Contains OBD segment.
